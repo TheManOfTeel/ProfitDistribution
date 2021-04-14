@@ -1,2 +1,2 @@
 # ProfitDistribution
- Calculates profit distribution
+ A simple VB app that calculates profit distribution.

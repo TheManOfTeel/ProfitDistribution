@@ -1,0 +1,2 @@
+# ProfitDistribution
+ Calculates profit distribution

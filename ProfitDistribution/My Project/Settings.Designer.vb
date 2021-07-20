@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
 
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
-        Friend ReadOnly Property Settings() As Global.PS4simulate.My.MySettings
+        Friend ReadOnly Property Settings() As Global.ProfitDistributionSimulate.My.MySettings
             Get
-                Return Global.PS4simulate.My.MySettings.Default
+                Return Global.ProfitDistributionSimulate.My.MySettings.Default
             End Get
         End Property
     End Module

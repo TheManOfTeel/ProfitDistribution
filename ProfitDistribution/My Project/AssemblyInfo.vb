@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("PS4simulate")>
+<Assembly: AssemblyTitle("ProfitDistributionSimulate")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("PS4simulate")>
+<Assembly: AssemblyProduct("ProfitDistributionSimulate")>
 <Assembly: AssemblyCopyright("Copyright ©  2015")>
 <Assembly: AssemblyTrademark("")>
 
